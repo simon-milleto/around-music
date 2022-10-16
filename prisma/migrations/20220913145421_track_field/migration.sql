@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE `Track` ADD COLUMN `link` VARCHAR(191) NULL,
+    ADD COLUMN `previewUrl` VARCHAR(191) NULL;
